@@ -1,0 +1,448 @@
+2019-04-25 15:30:57.1026|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 290a1554-77c3-47fc-b8f9-d69fb48b92fa
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:30:57.4156|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 290a1554-77c3-47fc-b8f9-d69fb48b92fa
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:31:13.6735|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 290a1554-77c3-47fc-b8f9-d69fb48b92fa
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:31:17.4386|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 7586a087-e57d-4693-ab17-b7fdfcdcdb6e
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:31:17.4386|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 7586a087-e57d-4693-ab17-b7fdfcdcdb6e
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:31:17.4616|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 7586a087-e57d-4693-ab17-b7fdfcdcdb6e
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:31:19.5174|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 7b62cc93-db0c-4ab5-a27d-9e4fae499ceb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:31:19.5174|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 7b62cc93-db0c-4ab5-a27d-9e4fae499ceb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:31:29.5737|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 7b62cc93-db0c-4ab5-a27d-9e4fae499ceb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:31:52.2626|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 7ea70692-986a-4ab7-8fc4-c5323aeb0c74
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:31:52.2626|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 7ea70692-986a-4ab7-8fc4-c5323aeb0c74
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:32:02.3001|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 7ea70692-986a-4ab7-8fc4-c5323aeb0c74
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:32:31.6036|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: fe1aa6e3-8817-4849-94ac-a31c4e6cfc86
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:32:31.6056|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: fe1aa6e3-8817-4849-94ac-a31c4e6cfc86
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:32:41.6847|INFO|ProjectManager.Utils.LoggingUtility|Request ID: fe1aa6e3-8817-4849-94ac-a31c4e6cfc86
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:34:56.4293|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:34:56.8013|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:35:12.8872|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000002-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:35:18.6495|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:35:18.6515|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:35:28.8312|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000003-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:36:20.0491|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:36:20.2366|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0000-f700-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:38:25.0711|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000010-0002-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:38:25.0761|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000010-0002-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50830/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:39:33.2781|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:39:33.2781|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:39:43.3230|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000005-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:39:50.7354|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000a-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:39:50.7354|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000a-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:40:00.7754|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 8000000a-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:40:16.6186|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000006-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:40:16.6206|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000006-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:40:26.6872|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000006-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:41:40.3537|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000012-0002-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:41:40.3537|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000012-0002-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:41:50.4007|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000012-0002-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:42:12.8858|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000014-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:42:12.8858|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000014-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:42:22.9282|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000014-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:43:32.2225|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000015-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:43:32.2225|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000015-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:43:42.2745|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000015-0001-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:46:46.5761|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:46:46.5761|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:46:56.6376|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000009-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:47:08.3218|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:47:08.3248|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:47:14.3319|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:47:14.3319|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 8000000c-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-04-25 15:47:18.3578|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 8000000c-0003-fe00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+
+2019-04-25 15:47:18.3578|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 8000000c-0003-ff00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:8090/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Cannot open database "ProjectManager" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+
+

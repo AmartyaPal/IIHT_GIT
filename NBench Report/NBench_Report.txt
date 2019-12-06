@@ -1,0 +1,22 @@
+Microsoft Windows [Version 10.0.10240]
+(c) 2015 Microsoft Corporation. All rights reserved.
+
+C:\Users\Admin>"C:\Users\Admin\Desktop\FSE-master\FSE-master\server\ProjectManager\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner" "C:\Users\Admin\Desktop\FSE-master\FSE-master\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll"
+Executing Benchmarks in C:\Users\Admin\Desktop\FSE-master\FSE-master\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
+------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ----------
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9552503
+Elapsed Time - ms: 955.00 ,ms: /s 999.74 , ns / ms: 10,00,262.09
+--------------- END RUN ---------------
+
+--------------- RESULTS: PerformanceTests.TaskPerfTests+PerformanceTests ---------------
+--------------- DATA ---------------
+Elapsed Time: Max: 955.00 ms, Average: 955.00 ms, Min: 955.00 ms, StdDev: 0.00 ms
+Elapsed Time: Max / s: 999.74 ms, Average / s: 999.74 ms, Min / s: 999.74 ms, StdDev / s: 0.00 ms
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected Elapsed Time to must be less than or equal to 5,000.00 ms; actual value was 955.00 ms.
+
+------------ FINISHED PerformanceTests.TaskPerfTests+PerformanceTests ----------
+
+C:\Users\Admin>

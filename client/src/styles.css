@@ -1,0 +1,55 @@
+/* You can add global styles to this file, and also import other style files */
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #2846a7;
+    border-color: #003cff;
+}
+.btn-primary {
+    color: #fff !important;
+    background-color: #6c757d !important;
+    border-color: #333 !important;
+}
+.ng5-slider .ng5-slider-pointer {
+    cursor: pointer;
+    width: 32px;
+    height: 32px;
+    top: -14px;
+    background-color: #3c763d !important;
+    z-index: 3;
+    border-radius: 16px;
+}
+body {
+    margin: 0;
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 1.5rem !important;
+    font-weight: 500 !important;
+    line-height: 1.5 !important;
+    color: #212529 !important;
+    text-align: left;
+    background-color: #fff;
+   
+}
+.navbar-brand .h2, h2{
+    font-size: 3rem !important; 
+}
+.navbar-inverse {
+    background-color: #2846a7 !important;
+    border-color: #00e5ff !important;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #003cff !important;
+}
+.navbar-inverse .navbar-brand {
+    color: #f8f9fa !important;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #eee !important;
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: row !important;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
